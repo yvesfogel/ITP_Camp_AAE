@@ -47,7 +47,17 @@ Add the types that you need depending on which software you’re scripting for. 
 This plugin helps us directly run code from VS Code in After Effects.
 Once installed type `command + shift + P` to test it
 
-## RESOURCES
+## REFERENCES
+
+- Expressions:
+- https://helpx.adobe.com/after-effects/using/expression-language-reference.html
+- https://ae-expressions.docsforadobe.dev/index.html 
+
+- Scripting:
+- https://buildmedia.readthedocs.org/media/pdf/after-effects-scripting-guide/latest/after-effects-scripting-guide.pdf
+
+
+## EXTRA RESOURCES
 
 - [Youtube channel for expressions](https://www.youtube.com/watch?v=SFgWa5G0VAE&list=PLvr5U5ZSt6IzHyvSL9fo0M9NRPsTvra31)
 - [Youtube channel for scripting](https://www.youtube.com/c/NTProductions)
