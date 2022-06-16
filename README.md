@@ -1,1 +1,2 @@
-# ITP_Camp_AAE
+# After After Effects: Coding Animations
+
